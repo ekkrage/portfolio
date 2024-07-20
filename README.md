@@ -4,7 +4,7 @@ Hi, my name is Erin, and this my portfolio!
 
 I'm an aspiring technical writer based in Seattle, WA, and this page showcases a handful of projects I'm proud of. But first, a bit about me!
 
-I grew up in Kansas then lived all over the Midwest before moving to Seattle in 2022. Prior to my time in the Pacific Northwest, I went to Iowa State University and earned a degree in Public Relations from their school of Journalism. I then pursued a career in copywriting before deciding to change my career path and attend the University of Washington for their [Certificate in Professional Technical Writing](https://www.pce.uw.edu/certificates/professional-technical-writing).
+I grew up in Kansas then lived all over the Midwest before moving to Seattle in 2022. Prior to my time in the Pacific Northwest, I went to Iowa State University and earned a degree in Public Relations from their school of Journalism. I have since pursued a career in copywriting and decided to further develop my writing education and attend the University of Washington for their [Certificate in Professional Technical Writing](https://www.pce.uw.edu/certificates/professional-technical-writing).
 
 Below you'll find a variety of my favorite writing projects, from both my time technical writing while at UW and my time copywriting at an advertising agency, and additional information on each project.
 
